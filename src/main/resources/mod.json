@@ -1,0 +1,17 @@
+{
+  "description":"Plugable dashboard framework",
+  "licenses": ["MIT"],
+  "author": "Simon Dean",
+
+  "developers": [],
+  "keywords": [
+    "dashboard",
+    "information",
+    "radiator",
+    "react",
+    "vert.x"
+  ],
+  "homepage": "https://github.com/tiler-project/tiler-core",
+
+  "auto-redeploy": true
+}
