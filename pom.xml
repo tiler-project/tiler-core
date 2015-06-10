@@ -53,7 +53,6 @@
     <vertx.version>2.1.5</vertx.version>
     <vertx.testtools.version>2.0.3-final</vertx.testtools.version>
     <junit.version>4.11</junit.version>
-    <vertx-async.version>0.1.6</vertx-async.version>
 
     <!--Plugin versions-->
     <maven.compiler.plugin.version>3.0</maven.compiler.plugin.version>
@@ -88,12 +87,6 @@
       <scope>provided</scope>
     </dependency>
     <!--Dependencies provided by included Vert.x modules-->
-    <dependency>
-      <groupId>org.simondean.vertx</groupId>
-      <artifactId>vertx-async</artifactId>
-      <version>${vertx-async.version}</version>
-      <scope>provided</scope>
-    </dependency>
     <!--Test dependencies-->
     <dependency>
       <groupId>junit</groupId>

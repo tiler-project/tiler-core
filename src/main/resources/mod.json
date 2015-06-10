@@ -13,6 +13,5 @@
   ],
   "homepage": "https://github.com/tiler-project/tiler-core",
 
-  "auto-redeploy": true,
-  "includes": "org.simondean.vertx~vertx-async~0.1.6"
+  "auto-redeploy": true
 }

@@ -1,6 +1,6 @@
 package io.tiler.core;
 
-import org.simondean.vertx.async.DefaultAsyncResult;
+import io.tiler.core.internal.DefaultAsyncResult;
 import org.vertx.java.core.AsyncResult;
 import org.vertx.java.core.AsyncResultHandler;
 import org.vertx.java.core.eventbus.Message;
