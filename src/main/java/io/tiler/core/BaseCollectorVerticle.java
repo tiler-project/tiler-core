@@ -49,6 +49,6 @@ public class BaseCollectorVerticle extends Verticle {
   }
 
   protected long currentTimeInMicroseconds() {
-    return System.currentTimeMillis() * 1000;
+    return System.currentTimeMillis() * 1000L;
   }
 }
